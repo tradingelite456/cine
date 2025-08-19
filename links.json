@@ -1,4 +1,9 @@
 [
+
+     {
+      "provider": "empire_streaming",
+      "link": "https://empire-stream.ink/"
+    },
     {
       "provider": "wiflix",
       "link": "http://flemmix.biz/"
