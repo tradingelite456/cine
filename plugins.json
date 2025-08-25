@@ -1,5 +1,24 @@
 [
 
+         {
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/daddylive.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/tradingelite456/cine",
+        "fileSize": 21597,
+        "status": 1,
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 6,
+        "internalName": "CinemaxLive",
+        "description": "TV en direct",
+        "url": "https://raw.githubusercontent.com/tradingelite456/cine/builds/CinemaxLive.cs3",
+        "name": "CinemaxLive"
+    },
+
      
     {
         "iconUrl": "https://raw.githubusercontent.com/tradingelite456/cine/refs/heads/main/cinemax.png",
